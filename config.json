@@ -139,7 +139,7 @@
     "default": "ru"
   },
   "ottProviders": {
-    "edox": "EDOX_SMS",
+    "edox": "EDOX_KRATOS_CREDS",
     "comon": "COMON_KRATOS_TOKEN"
   },
   "chat": {
